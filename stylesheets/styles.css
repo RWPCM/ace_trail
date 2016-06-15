@@ -87,7 +87,7 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
-a {
+a, button {
   color:#39c;
   text-decoration:none;
 }
@@ -189,7 +189,7 @@ header li:last-child a {
   border-radius:0 5px 5px 0;
 }
 
-header ul a {
+header ul a button {
   line-height:1;
   font-size:11px;
   color:#999;
@@ -217,7 +217,7 @@ header ul li + li + li {
   width:89px;
 }
 
-header ul a strong {
+header ul a button strong {
   font-size:14px;
   display:block;
   color:#222;
